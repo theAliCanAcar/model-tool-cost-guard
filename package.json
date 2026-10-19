@@ -1,0 +1,27 @@
+{
+  "name": "model-tool-cost-guard",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Local token, request, spend, and time budgets.",
+  "main": "model-tool-cost-guard.js",
+  "exports": {
+    ".": "./model-tool-cost-guard.js"
+  },
+  "files": [
+    "model-tool-cost-guard.js",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "agents",
+    "reliability",
+    "verification",
+    "model-tool-cost-guard"
+  ],
+  "license": "MIT"
+}
